@@ -1,0 +1,16 @@
+name = "ark-infographic"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+ENVIRONMENT = "production"
+
+[[rules]]
+type = "Data"
+globs = ["**/*.ttf"]
+fallthrough = true
+
+[[r2_buckets]]
+binding = "SPRITES"
+bucket_name = "ark-creature-sprites"

@@ -1,0 +1,1388 @@
+[
+  {
+    "id": 1,
+    "name": "Red",
+    "linearRgba": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 2,
+    "name": "Blue",
+    "linearRgba": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 3,
+    "name": "Green",
+    "linearRgba": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 4,
+    "name": "Yellow",
+    "linearRgba": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 5,
+    "name": "Cyan",
+    "linearRgba": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 6,
+    "name": "Magenta",
+    "linearRgba": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 7,
+    "name": "Light Green",
+    "linearRgba": [
+      0.5325,
+      1,
+      0.5,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 8,
+    "name": "Light Grey",
+    "linearRgba": [
+      0.581026,
+      0.6,
+      0.59417,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 9,
+    "name": "Light Brown",
+    "linearRgba": [
+      0.19,
+      0.137402,
+      0.0988,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 10,
+    "name": "Light Orange",
+    "linearRgba": [
+      1,
+      0.462179,
+      0.15,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 11,
+    "name": "Light Yellow",
+    "linearRgba": [
+      1,
+      0.951947,
+      0.26,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 12,
+    "name": "Light Red",
+    "linearRgba": [
+      1,
+      0.180907,
+      0.15,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 13,
+    "name": "Dark Grey",
+    "linearRgba": [
+      0.2,
+      0.2,
+      0.2,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 14,
+    "name": "Black",
+    "linearRgba": [
+      0.04,
+      0.04,
+      0.04,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 15,
+    "name": "Brown",
+    "linearRgba": [
+      0.1,
+      0.038777,
+      0.019477,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 16,
+    "name": "Dark Green",
+    "linearRgba": [
+      0.012339,
+      0.065,
+      0,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 17,
+    "name": "Dark Red",
+    "linearRgba": [
+      0.225,
+      0.011337,
+      0.005625,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 18,
+    "name": "White",
+    "linearRgba": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 19,
+    "name": "Dino Light Red",
+    "linearRgba": [
+      1,
+      0.4,
+      0.4,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 20,
+    "name": "Dino Dark Red",
+    "linearRgba": [
+      0.1,
+      0.02,
+      0.02,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 21,
+    "name": "Dino Light Orange",
+    "linearRgba": [
+      1,
+      0.475,
+      0.3,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 22,
+    "name": "Dino Dark Orange",
+    "linearRgba": [
+      0.25,
+      0.084211,
+      0.025,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 23,
+    "name": "Dino Light Yellow",
+    "linearRgba": [
+      0.6,
+      0.6,
+      0.36,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 24,
+    "name": "Dino Dark Yellow",
+    "linearRgba": [
+      0.3,
+      0.3,
+      0.15,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 25,
+    "name": "Dino Light Green",
+    "linearRgba": [
+      0.75,
+      1,
+      0.75,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 26,
+    "name": "Dino Medium Green",
+    "linearRgba": [
+      0.195,
+      0.3,
+      0.195,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 27,
+    "name": "Dino Dark Green",
+    "linearRgba": [
+      0.0125,
+      0.05,
+      0.0125,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 28,
+    "name": "Dino Light Blue",
+    "linearRgba": [
+      0.7,
+      0.749999,
+      1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 29,
+    "name": "Dino Dark Blue",
+    "linearRgba": [
+      0.0375,
+      0.052084,
+      0.125,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 30,
+    "name": "Dino Light Purple",
+    "linearRgba": [
+      0.78,
+      0.7,
+      1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 31,
+    "name": "Dino Dark Purple",
+    "linearRgba": [
+      0.048667,
+      0.03,
+      0.1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 32,
+    "name": "Dino Light Brown",
+    "linearRgba": [
+      1,
+      0.75,
+      0.5,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 33,
+    "name": "Dino Medium Brown",
+    "linearRgba": [
+      0.3,
+      0.24,
+      0.18,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 34,
+    "name": "Dino Dark Brown",
+    "linearRgba": [
+      0.1,
+      0.075,
+      0.05,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 35,
+    "name": "Dino Darker Grey",
+    "linearRgba": [
+      0.1,
+      0.1,
+      0.1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 36,
+    "name": "Dino Albino",
+    "linearRgba": [
+      1.75,
+      1.75,
+      1.75,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 37,
+    "name": "BigFoot0",
+    "linearRgba": [
+      0.48,
+      0.310437,
+      0.231047,
+      1
+    ],
+    "isDye": false
+  },
+  {
+    "id": 38,
+    "name": "BigFoot4",
+    "linearRgba": [
+      0.825,
+      0.70492,
+      0.66825,
+      1
+    ],
+    "isDye": false
+  },
+  {
+    "id": 39,
+    "name": "BigFoot5",
+    "linearRgba": [
+      0.635,
+      0.393327,
+      0.301625,
+      1
+    ],
+    "isDye": false
+  },
+  {
+    "id": 40,
+    "name": "WolfFur",
+    "linearRgba": [
+      0.555,
+      0.459457,
+      0.352425,
+      1
+    ],
+    "isDye": false
+  },
+  {
+    "id": 41,
+    "name": "DarkWolfFur",
+    "linearRgba": [
+      0.25,
+      0.185219,
+      0.13375,
+      1
+    ],
+    "isDye": false
+  },
+  {
+    "id": 42,
+    "name": "DragonBase0",
+    "linearRgba": [
+      0.36,
+      0.133418,
+      0.06749,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 43,
+    "name": "DragonBase1",
+    "linearRgba": [
+      0.605,
+      0.193228,
+      0.09075,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 44,
+    "name": "DragonFire",
+    "linearRgba": [
+      0.51,
+      0.077267,
+      0,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 45,
+    "name": "DragonGreen0",
+    "linearRgba": [
+      0.1927,
+      0.235,
+      0.1504,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 46,
+    "name": "DragonGreen1",
+    "linearRgba": [
+      0.285735,
+      0.34,
+      0.192384,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 47,
+    "name": "DragonGreen2",
+    "linearRgba": [
+      0.385,
+      0.375473,
+      0.263252,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 48,
+    "name": "DragonGreen3",
+    "linearRgba": [
+      0.1768,
+      0.296233,
+      0.34,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 49,
+    "name": "WyvernPurple0",
+    "linearRgba": [
+      0.190928,
+      0.175266,
+      0.31,
+      1
+    ],
+    "isDye": false
+  },
+  {
+    "id": 50,
+    "name": "WyvernPurple1",
+    "linearRgba": [
+      0.441761,
+      0.36915,
+      0.535,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 51,
+    "name": "WyvernBlue0",
+    "linearRgba": [
+      0.12245,
+      0.223903,
+      0.395,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 52,
+    "name": "WyvernBlue1",
+    "linearRgba": [
+      0.063,
+      0.106552,
+      0.18,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 53,
+    "name": "Dino Medium Blue",
+    "linearRgba": [
+      0.1155,
+      0.379603,
+      0.825,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 54,
+    "name": "Dino Deep Blue",
+    "linearRgba": [
+      0.056525,
+      0.138854,
+      0.665,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 55,
+    "name": "NearWhite",
+    "linearRgba": [
+      0.85,
+      0.85,
+      0.85,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 56,
+    "name": "NearBlack",
+    "linearRgba": [
+      0.08,
+      0.08,
+      0.08,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 57,
+    "name": "DarkTurquoise",
+    "linearRgba": [
+      0.005605,
+      0.056128,
+      0.057805,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 58,
+    "name": "MediumTurquoise",
+    "linearRgba": [
+      0,
+      0.165132,
+      0.116971,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 59,
+    "name": "Turquoise",
+    "linearRgba": [
+      0,
+      0.564712,
+      0.412543,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 60,
+    "name": "GreenSlate",
+    "linearRgba": [
+      0.048172,
+      0.099899,
+      0.07036,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 61,
+    "name": "Sage",
+    "linearRgba": [
+      0.045186,
+      0.076185,
+      0.048172,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 62,
+    "name": "DarkWarmGray",
+    "linearRgba": [
+      0.040915,
+      0.036889,
+      0.035601,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 63,
+    "name": "MediumWarmGray",
+    "linearRgba": [
+      0.097587,
+      0.088656,
+      0.0865,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 64,
+    "name": "LightWarmGray",
+    "linearRgba": [
+      0.332452,
+      0.291771,
+      0.283149,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 65,
+    "name": "DarkCement",
+    "linearRgba": [
+      0.082283,
+      0.104616,
+      0.093059,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 66,
+    "name": "LightCement",
+    "linearRgba": [
+      0.258183,
+      0.361307,
+      0.309469,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 67,
+    "name": "LightPink",
+    "linearRgba": [
+      0.806952,
+      0.439657,
+      1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 68,
+    "name": "DeepPink",
+    "linearRgba": [
+      1,
+      0.002732,
+      0.327778,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 69,
+    "name": "DarkViolet",
+    "linearRgba": [
+      0.174647,
+      0,
+      0.059511,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 70,
+    "name": "DarkMagenta",
+    "linearRgba": [
+      0.47932,
+      0,
+      0.051269,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 71,
+    "name": "BurntSienna",
+    "linearRgba": [
+      0.212231,
+      0.029557,
+      0.009134,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 72,
+    "name": "MediumAutumn",
+    "linearRgba": [
+      0.401978,
+      0.026241,
+      0,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 73,
+    "name": "Vermillion",
+    "linearRgba": [
+      0.863157,
+      0.027321,
+      0,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 74,
+    "name": "Coral",
+    "linearRgba": [
+      1,
+      0.097587,
+      0.030713,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 75,
+    "name": "Orange",
+    "linearRgba": [
+      1,
+      0.215861,
+      0,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 76,
+    "name": "Peach",
+    "linearRgba": [
+      1,
+      0.391573,
+      0.039546,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 77,
+    "name": "LightAutumn",
+    "linearRgba": [
+      0.428691,
+      0.165132,
+      0,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 78,
+    "name": "Mustard",
+    "linearRgba": [
+      0.300544,
+      0.300544,
+      0.016807,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 79,
+    "name": "ActualBlack",
+    "linearRgba": [
+      0.005,
+      0.005,
+      0.005,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 80,
+    "name": "MidnightBlue",
+    "linearRgba": [
+      0.006049,
+      0.008568,
+      0.033105,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 81,
+    "name": "DarkBlue",
+    "linearRgba": [
+      0.004391,
+      0.020289,
+      0.038204,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 82,
+    "name": "BlackSands",
+    "linearRgba": [
+      0.026241,
+      0.014444,
+      0.027321,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 83,
+    "name": "LemonLime",
+    "linearRgba": [
+      0.396755,
+      1,
+      0.05448,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 84,
+    "name": "Mint",
+    "linearRgba": [
+      0.035601,
+      0.814847,
+      0.238398,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 85,
+    "name": "Jade",
+    "linearRgba": [
+      0,
+      0.250158,
+      0.048172,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 86,
+    "name": "PineGreen",
+    "linearRgba": [
+      0.002125,
+      0.088656,
+      0.023153,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 87,
+    "name": "SpruceGreen",
+    "linearRgba": [
+      0,
+      0.104616,
+      0.056128,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 88,
+    "name": "LeafGreen",
+    "linearRgba": [
+      0.104616,
+      0.313989,
+      0.014444,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 89,
+    "name": "DarkLavender",
+    "linearRgba": [
+      0.111932,
+      0.016807,
+      0.114435,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 90,
+    "name": "MediumLavender",
+    "linearRgba": [
+      0.238398,
+      0.031896,
+      0.246201,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 91,
+    "name": "Lavender",
+    "linearRgba": [
+      0.514918,
+      0.187821,
+      0.520996,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 92,
+    "name": "DarkTeal",
+    "linearRgba": [
+      0.001821,
+      0.048172,
+      0.066626,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 93,
+    "name": "MediumTeal",
+    "linearRgba": [
+      0.002428,
+      0.088656,
+      0.124772,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 94,
+    "name": "Teal",
+    "linearRgba": [
+      0.003677,
+      0.234551,
+      0.337164,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 95,
+    "name": "PowderBlue",
+    "linearRgba": [
+      0.226966,
+      0.391573,
+      1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 96,
+    "name": "Glacial",
+    "linearRgba": [
+      0.417885,
+      0.822786,
+      1,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 97,
+    "name": "Cammo",
+    "linearRgba": [
+      0.078187,
+      0.08022,
+      0.005605,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 98,
+    "name": "DryMoss",
+    "linearRgba": [
+      0.184475,
+      0.158961,
+      0.046665,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 99,
+    "name": "Custard",
+    "linearRgba": [
+      0.533276,
+      0.514918,
+      0.111932,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 100,
+    "name": "Cream",
+    "linearRgba": [
+      0.904661,
+      1,
+      0.533276,
+      0
+    ],
+    "isDye": false
+  },
+  {
+    "id": 201,
+    "name": "Black Coloring",
+    "linearRgba": [
+      0.01,
+      0.01,
+      0.01,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 202,
+    "name": "Blue Coloring",
+    "linearRgba": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 203,
+    "name": "Brown Coloring",
+    "linearRgba": [
+      0.18,
+      0.12,
+      0.06,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 204,
+    "name": "Cyan Coloring",
+    "linearRgba": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 205,
+    "name": "Forest Coloring",
+    "linearRgba": [
+      0,
+      0.15,
+      0,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 206,
+    "name": "Green Coloring",
+    "linearRgba": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 207,
+    "name": "Purple Coloring",
+    "linearRgba": [
+      0.15,
+      0,
+      0.5,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 208,
+    "name": "Orange Coloring",
+    "linearRgba": [
+      1,
+      0.25,
+      0,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 209,
+    "name": "Parchement Coloring",
+    "linearRgba": [
+      1,
+      1,
+      0.5,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 210,
+    "name": "Pink Coloring",
+    "linearRgba": [
+      1,
+      0.2,
+      0.76,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 211,
+    "name": "Purple Coloring",
+    "linearRgba": [
+      0.2,
+      0,
+      0.75,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 212,
+    "name": "Red Coloring",
+    "linearRgba": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 213,
+    "name": "Royalty Coloring",
+    "linearRgba": [
+      0.2,
+      0,
+      0.4,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 214,
+    "name": "Silver Coloring",
+    "linearRgba": [
+      0.75,
+      0.75,
+      0.75,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 215,
+    "name": "Sky Coloring",
+    "linearRgba": [
+      0.5,
+      0.666667,
+      1,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 216,
+    "name": "Tan Coloring",
+    "linearRgba": [
+      1,
+      0.844706,
+      0.45,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 217,
+    "name": "Tangerine Coloring",
+    "linearRgba": [
+      0.425,
+      0.129466,
+      0.02125,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 218,
+    "name": "White Coloring",
+    "linearRgba": [
+      0.99,
+      0.99,
+      0.99,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 219,
+    "name": "Yellow Coloring",
+    "linearRgba": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 220,
+    "name": "Magenta Coloring",
+    "linearRgba": [
+      0.8,
+      0.01,
+      0.7,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 221,
+    "name": "Brick Coloring",
+    "linearRgba": [
+      0.3,
+      0.03,
+      0.01,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 222,
+    "name": "Cantaloupe Coloring",
+    "linearRgba": [
+      1,
+      0.33,
+      0,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 223,
+    "name": "Mud Coloring",
+    "linearRgba": [
+      0.06,
+      0.04,
+      0.02,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 224,
+    "name": "Navy Coloring",
+    "linearRgba": [
+      0.03,
+      0.03,
+      0.15,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 225,
+    "name": "Olive Coloring",
+    "linearRgba": [
+      0.5,
+      0.5,
+      0.1,
+      0
+    ],
+    "isDye": true
+  },
+  {
+    "id": 226,
+    "name": "Slate Coloring",
+    "linearRgba": [
+      0.1,
+      0.1,
+      0.1,
+      0
+    ],
+    "isDye": true
+  }
+]
