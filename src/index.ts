@@ -147,10 +147,10 @@ async function handleInfographic(
   // Fetch creature images from R2 and colorize
   let creatureImageDataUri: string | undefined;
   try {
-    const prefix = `${server.game}/${speciesName}`;
+    const suffix = server.game === "ASA" ? "_ASA" : "";
     const [baseObj, maskObj] = await Promise.all([
-      env.SPRITES.get(`${prefix}/base.png`),
-      env.SPRITES.get(`${prefix}/mask.png`),
+      env.SPRITES.get(`${speciesName}${suffix}.png`),
+      env.SPRITES.get(`${speciesName}${suffix}_m.png`),
     ]);
 
     if (baseObj) {
